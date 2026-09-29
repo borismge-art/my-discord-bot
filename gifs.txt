@@ -1,0 +1,41 @@
+# Формат: URL | короткое описание (когда уместна). Строки с # игнорируются.
+# Также поддерживаются ЛОКАЛЬНЫЕ файлы: gifs_local/имя.webp | описание
+#   (локальные надёжнее ссылок: чужие CDN и подписи Discord ?ex=...&hm=... истекают за 24 часа).
+#   Формат .webp подходит: Discord анимирует webp во вложениях. Лимит веса — GIF_MAX_UPLOAD_MB (8).
+# Мёртвые помечены «НЕ РАБОТАЕТ» — бот их не шлёт. Список того, что надо доскачать руками,
+# лежит в gifs_local/README.md (ссылки на discordapp-вложения из каналов, куда бот не входит).
+https://media.tenor.com/GAXw2I_07dEAAAAM/shadow-fiend.gif | Шутливое пожелание спокойной ночи с угрозой проспать школу
+gifs_local/0907(3).gif | Избиваем школьника 
+gifs_local/majima-majima-goro-1.webp | Маджима из Yakuza ухмыляется и косится в сторону — самодовольная подколка
+https://media1.tenor.com/m/yZ06Cg5RORMAAAAd/anime.gif | милота
+gifs_local/yakuza-majima-7.webp | мужик держит арбуз и драматично тянет руку к зрителю — пафосная предъява
+gifs_local/nevieebenno-poxui-yakuza.webp | мужик улетает во взрыве, подписи «НЕВЪЕБЕННО / ПОХУЙ» — показное безразличие
+gifs_local/goro-majima-hustle.webp | Маджима из Yakuza танцует в чёрном костюме с повязкой на глазу — выёживание, понты
+gifs_local/gif.gif | Да что вы за друзья такие, троллите постоянно
+https://media1.tenor.com/m/smHxGVwcrBEAAAAC/sensei-ekzit.gif | довольный МГЕ брат
+https://media1.tenor.com/m/bIDrPenXLBIAAAAC/yakuza-goro-majima.gif | get real
+gifs_local/image.gif | Я кабана в жопу ебал
+gifs_local/lv_0_20250908140450.gif | НЕ НАШ СЛОН, НЕ НАШ СЛОНЯРА
+https://api-cdn.rule34.xxx/images/2245/641c8f7186b915942a2ead73cadb9102.gif | Майнкрафт шлюха тресёт сиськами
+gifs_local/doc_2026-05-10_10-08-40.gif | ЁБАНЫЙ РОТ
+gifs_local/iaica-v-puke-pila.webp | кукла Билли из «Пилы» произносит зловещее послание про яйца в панировке и фритюрницу — угроза с абсурдом
+https://media1.tenor.com/m/cvzlRIoJuJwAAAAd/tf2-emesis-blue.gif | Солдат из TF2 стоит в ахуе
+gifs_local/obeziana-obeziana-mem.webp | орангутан с открытой пастью тянется к камере, будто приветствует — «здорово, обезьяна»
+gifs_local/hmmmm-20.webp | кошка задумчиво подпёрла лапой морду (подпись hmm...) — скепсис, раздумье, «ну-ну»
+gifs_local/hah.gif |МУЖИКИ, ДАВАЙТЕ ДРУГ ДРУГУ В ТУЗА НАПУЛЯЕМ
+gifs_local/HN2_0GIX0AAHkSr.gif | На это мастурбировать нельзя..
+https://media.tenor.com/7FynhGIFtaoAAAAM/%D0%B1%D0%B5%D0%BB%D0%BA%D0%B0-%D0%B1%D1%83%D1%85%D0%B0%D1%82%D1%8C.gif | "Бухай блять!"
+gifs_local/image0.gif | Нищий не звони
+https://media1.tenor.com/m/SslixvOUQa4AAAAd/femboy-tomboy.gif | Femboy vs Tomboy
+https://media1.tenor.com/m/5GCgA3Ev3CgAAAAd/%D0%BD%D1%8F%D1%88%D0%BA%D0%B0-nyashka-%D0%B0%D0%BD%D0%B8%D0%BC%D0%B5-anime.gif | "Няшка снова в мире интернета"
+https://media.tenor.com/7YbmXq_ixXIAAAAM/zhukov.gif | Крутой генерал
+https://media1.tenor.com/m/gRhdARPTS34AAAAd/mge-%D0%B2-%D0%B3%D0%B8%D0%B1%D0%BB%D0%BE%D0%B5-%D0%BC%D0%B5%D1%81%D1%82%D0%BE-%D0%BF%D1%80%D0%B8%D1%81%D1%83%D0%BD%D1%83%D0%BB.gif | "В гиблое место присунул"
+https://media1.tenor.com/m/JX58x1HMUJkAAAAd/%D0%BC%D0%B3%D0%B5-%D1%82%D1%84.gif | "Депортируйте его быстрее!"
+https://media1.tenor.com/m/6yFLREILnl0AAAAd/tf2-team-fortress-2.gif | "Минута пошла!"
+gifs_local/animation.gif.gif | Удивление
+https://media1.tenor.com/m/zRM13P2HwL4AAAAC/gatomirandomeme.gif | кот в ахуе
+https://media1.tenor.com/m/sUBpbmRmfPkAAAAC/%D0%B0%D1%82%D1%82%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%B0%D0%BB%D1%81%D1%8F-%D1%83-464-%D0%BE%D0%B9.gif | кот в тотальном ахуе
+gifs_local/foxy ass.gif | Фокси трясёт своей задницей
+https://media1.tenor.com/m/Bt7VJ0uQlSoAAAAC/cat-mewing-mew-cat.gif | Сигма кот
+gifs_local/file_1.gif | Гадэээм
+gifs_local/cat.gif | Не довольный кот

@@ -1,0 +1,35 @@
+# Формат: кличка = username (точное значение из Discord).
+# Кличка раскрывается в рабочий тег и с @, и без @. Регистр не важен.
+# ВНИМАНИЕ: не добавляй сюда обычные слова и имена, которые часто встречаются
+# в тексте просто так («борис», «саня», «руслан») — они превратятся в пинги.
+# Только явные прозвища/ники.
+ратчет = prosto_ratchet
+ратчёт = prosto_ratchet
+prosto_ratchet = prosto_ratchet
+gazover = gazover
+газовер = gazover
+я и сталина съел = sanek331
+sanek331 = sanek331
+panzer charonchik = xeron6696
+panzer = xeron6696
+ксерон = xeron6696
+xeron6696 = xeron6696
+доша = alanderbrie
+салливан = alanderbrie
+alanderbrie = alanderbrie
+минас = minas7426
+minas7426 = minas7426
+doku = doku949
+doku949 = doku949
+venefictor = venefictor
+венефиктор = venefictor
+челябинск = .ivlis.
+ивлис = .ivlis.
+.ivlis. = .ivlis.
+barakon = barakon
+borisbrat = borisbrat
+redconscript = redconscript
+комуняка = redconscript
+andrey_d_ = andrey_d_
+андрюха = andrey_d_
+andrewcartoon = andrey_d_

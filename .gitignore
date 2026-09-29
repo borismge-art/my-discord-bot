@@ -1,0 +1,5 @@
+.env
+people.jsonl
+gif_cache/
+avatar_cache.png
+bot.log*
